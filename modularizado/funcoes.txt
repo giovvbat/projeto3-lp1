@@ -1,0 +1,14 @@
+carregarEmpresa()
+carregarAsg()
+carregarVendedor()
+carregarGerente()
+carregaDono()
+imprimeAsgs()
+imprimeVendedores()
+imprimeGerentes()
+imprimeDono()
+buscaFuncionario()
+8397498327
+calculaSalarioFuncionario()
+72.102-0
+calculaTodosOsSalarios()

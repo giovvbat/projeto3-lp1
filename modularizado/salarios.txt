@@ -1,0 +1,44 @@
+Nome do funcionário: Pedro de Araujo
+Cargo do funcionário: ASG
+Salário do funcionário: 1293.6
+****************************************
+Nome do funcionário: Jorge Linhares
+Cargo do funcionário: ASG
+Salário do funcionário: 1586
+****************************************
+Nome do funcionário: Antonio Augusto de Souza Filho
+Cargo do funcionário: ASG
+Salário do funcionário: 1347.4
+****************************************
+-----------------------------
+Nome do funcionário: Luiz de Souza
+Cargo do funcionário: vendedor
+Salário do funcionário: 1750
+****************************************
+Nome do funcionário: Suziane Maria
+Cargo do funcionário: vendedor
+Salário do funcionário: 2012.5
+****************************************
+Nome do funcionário: Alexandra Gonçalve Dias
+Cargo do funcionário: vendedor
+Salário do funcionário: 1517.5
+****************************************
+Nome do funcionário: Guilherme Borba Dias
+Cargo do funcionário: vendedor
+Salário do funcionário: 1875
+****************************************
+Nome do funcionário: Paulo Herculano de Souza
+Cargo do funcionário: vendedor
+Salário do funcionário: 1750
+****************************************
+-----------------------------
+Nome do funcionário: Gustavo Luiz de Souza
+Cargo do funcionário: gerente
+Salário do funcionário: 3100
+****************************************
+-----------------------------
+Total de salários dos funcionários ASG: 4227
+Total de salários dos vendedores: 8905
+Total de salários dos gerentes: 3100
+-----------------------------
+Total de salários dos funcionários: 16232
